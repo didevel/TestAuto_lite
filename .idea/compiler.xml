@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="LearnAutomation" />
         <module name="TestAutomationFromVadim" />
+        <module name="TestAuto_lite" />
       </profile>
     </annotationProcessing>
   </component>
